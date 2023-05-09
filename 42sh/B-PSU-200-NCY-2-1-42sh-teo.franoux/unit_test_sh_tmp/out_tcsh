@@ -1,0 +1,26 @@
+total 76
+lrwxrwxrwx   1 root root     7 avril 14 16:06 bin -> usr/bin
+drwxr-xr-x   4 root root  4096 avril 26 11:06 boot
+drwxrwxr-x   2 root root  4096 avril 14 16:08 cdrom
+drwxr-xr-x  20 root root  5440 mai    8 11:58 dev
+drwxr-xr-x 139 root root 12288 avril 26 11:05 etc
+drwxr-xr-x   3 root root  4096 avril 14 16:09 home
+lrwxrwxrwx   1 root root     7 avril 14 16:06 lib -> usr/lib
+lrwxrwxrwx   1 root root     9 avril 14 16:06 lib32 -> usr/lib32
+lrwxrwxrwx   1 root root     9 avril 14 16:06 lib64 -> usr/lib64
+lrwxrwxrwx   1 root root    10 avril 14 16:06 libx32 -> usr/libx32
+drwx------   2 root root 16384 avril 14 16:05 lost+found
+drwxr-xr-x   3 root root  4096 avril 14 14:16 media
+drwxr-xr-x   2 root root  4096 août   9  2022 mnt
+drwxr-xr-x   4 root root  4096 avril 14 14:33 opt
+dr-xr-xr-x 502 root root     0 mai    8 04:20 proc
+drwx------   4 root root  4096 avril 14 18:11 root
+drwxr-xr-x  39 root root  1160 mai    8 14:18 run
+lrwxrwxrwx   1 root root     8 avril 14 16:06 sbin -> usr/sbin
+drwxr-xr-x  13 root root  4096 avril 15 11:20 snap
+drwxr-xr-x   2 root root  4096 août   9  2022 srv
+dr-xr-xr-x  13 root root     0 mai    8 04:20 sys
+drwxrwxrwt  22 root root  4096 mai    8 14:30 tmp
+drwxr-xr-x  14 root root  4096 août   9  2022 usr
+drwxr-xr-x  14 root root  4096 août   9  2022 var
+Exit value: 0
